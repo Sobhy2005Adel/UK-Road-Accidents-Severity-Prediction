@@ -41,6 +41,7 @@ pandas
 numpy
 scikit-learn
 joblib
-
+---
 ###2️⃣ Run the App
+---
 streamlit run project1_app.py
