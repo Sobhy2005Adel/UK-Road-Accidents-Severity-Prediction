@@ -30,3 +30,19 @@ A **Streamlit web app** is included to allow users to input accident details and
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 🚀 How to Run the Streamlit App
+
+### 1️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+###2️⃣ Run the App
+streamlit run project1_app.py
