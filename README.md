@@ -1,5 +1,3 @@
-# CRASH-SEVERITY-CLASSIFIER
-Crash Severity Classifier predicts the severity of road accidents (Slight, Serious, Fatal) using a trained stacking machine-learning model. The project includes full preprocessing, SMOTE balancing, and a Streamlit app that allows users to input accident data and view real-time predictions.
 # 🚦 Crash Severity Classifier  
 Machine Learning Project for Predicting Accident Severity (UK Dataset)
 
